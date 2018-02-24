@@ -79,7 +79,7 @@ git config --global user.email " youremail@email.com"
 Set SSH key and passphrase <https://help.github.com/articles/working-with-ssh-key-passphrases/#platform-windows>
 
 
-## For both Mac and PC users after npm and git are installed
+## For both Mac and PC users after Node, NPM and git are installed
 
 ### Download the project files
 

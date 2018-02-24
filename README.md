@@ -48,7 +48,7 @@ Set SSH key and passphrase <https://help.github.com/articles/working-with-ssh-ke
 
 Make sure you have the Windows Command Prompt installed or install <http://cmder.net/>
 
-### Install Node and NPM (even if you already have it installed)
+### Install or update Node and NPM
 
 <http://blog.teamtreehouse.com/install-node-js-npm-windows>
 
